@@ -1,0 +1,14 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'En contra de van Inwagen.blg'
+[46] biber:313> INFO - === Sun Jul 14, 2019, 22:58:05
+[165] Biber.pm:371> INFO - Reading 'En contra de van Inwagen.bcf'
+[230] Biber.pm:857> INFO - Found 4 citekeys in bib section 0
+[258] Biber.pm:3981> INFO - Processing section 0
+[293] Biber.pm:4154> INFO - Looking for bibtex format file 'bib-vanInwagen.bib' for section 0
+[294] bibtex.pm:1468> INFO - LaTeX decoding ...
+[300] bibtex.pm:1294> INFO - Found BibTeX data source 'bib-vanInwagen.bib'
+[327] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[327] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[327] Biber.pm:3809> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[341] bbl.pm:617> INFO - Writing 'En contra de van Inwagen.bbl' with encoding 'UTF-8'
+[343] bbl.pm:720> INFO - Output to En contra de van Inwagen.bbl

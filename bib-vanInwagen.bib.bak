@@ -1,0 +1,35 @@
+% Encoding: UTF-8
+
+@Book{kane-free_will,
+  title     = {A Contemporary Introduction to Free Will},
+  publisher = {Oxford University Press},
+  year      = {2005},
+  author    = {Robert Kane},
+}
+
+@InCollection{sep-incompatibilism-arguments,
+  author       = {Vihvelin, Kadri},
+  title        = {Arguments for Incompatibilism},
+  booktitle    = {The Stanford Encyclopedia of Philosophy},
+  publisher    = {Metaphysics Research Lab, Stanford University},
+  year         = {2018},
+  editor       = {Edward N. Zalta},
+  edition      = {Fall 2018},
+  howpublished = {\url{https://plato.stanford.edu/archives/fall2018/entries/incompatibilism-arguments/}},
+}
+
+@Book{Inwagen1986,
+  title     = {An Essay on Free Will},
+  publisher = {Oxford University Press},
+  year      = {1986},
+  author    = {Peter van Inwagen},
+}
+
+@Book{Plantinga1974-PLATNO,
+  title     = {The Nature of Necessity},
+  publisher = {Clarendon Press},
+  year      = {1974},
+  author    = {Alvin Plantinga},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,0 +1,152 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{kane-free_will}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7e24ac4cad0c6b051e0c4fdfa38b534d}{%
+           family={Kane},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7e24ac4cad0c6b051e0c4fdfa38b534d}
+      \strng{fullhash}{7e24ac4cad0c6b051e0c4fdfa38b534d}
+      \strng{bibnamehash}{7e24ac4cad0c6b051e0c4fdfa38b534d}
+      \strng{authorbibnamehash}{7e24ac4cad0c6b051e0c4fdfa38b534d}
+      \strng{authornamehash}{7e24ac4cad0c6b051e0c4fdfa38b534d}
+      \strng{authorfullhash}{7e24ac4cad0c6b051e0c4fdfa38b534d}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Contemporary Introduction to Free Will}
+      \field{year}{2005}
+    \endentry
+    \entry{Plantinga1974-PLATNO}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a16d3a9df3138b52eabc36e563ab1197}{%
+           family={Plantinga},
+           familyi={P\bibinitperiod},
+           given={Alvin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{a16d3a9df3138b52eabc36e563ab1197}
+      \strng{fullhash}{a16d3a9df3138b52eabc36e563ab1197}
+      \strng{bibnamehash}{a16d3a9df3138b52eabc36e563ab1197}
+      \strng{authorbibnamehash}{a16d3a9df3138b52eabc36e563ab1197}
+      \strng{authornamehash}{a16d3a9df3138b52eabc36e563ab1197}
+      \strng{authorfullhash}{a16d3a9df3138b52eabc36e563ab1197}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Nature of Necessity}
+      \field{year}{1974}
+    \endentry
+    \entry{Inwagen1986}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5e4f9cf0d658f71719263130ffb0d6a5}{%
+           family={Inwagen},
+           familyi={I\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5e4f9cf0d658f71719263130ffb0d6a5}
+      \strng{fullhash}{5e4f9cf0d658f71719263130ffb0d6a5}
+      \strng{bibnamehash}{5e4f9cf0d658f71719263130ffb0d6a5}
+      \strng{authorbibnamehash}{5e4f9cf0d658f71719263130ffb0d6a5}
+      \strng{authornamehash}{5e4f9cf0d658f71719263130ffb0d6a5}
+      \strng{authorfullhash}{5e4f9cf0d658f71719263130ffb0d6a5}
+      \field{sortinit}{v}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Essay on Free Will}
+      \field{year}{1986}
+    \endentry
+    \entry{sep-incompatibilism-arguments}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d23b61271cfbe8ca3fd26f0f66ef3cdb}{%
+           family={Vihvelin},
+           familyi={V\bibinitperiod},
+           given={Kadri},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d9b6284b7816d9e586e8af9a253ba08e}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{d23b61271cfbe8ca3fd26f0f66ef3cdb}
+      \strng{fullhash}{d23b61271cfbe8ca3fd26f0f66ef3cdb}
+      \strng{bibnamehash}{d23b61271cfbe8ca3fd26f0f66ef3cdb}
+      \strng{authorbibnamehash}{d23b61271cfbe8ca3fd26f0f66ef3cdb}
+      \strng{authornamehash}{d23b61271cfbe8ca3fd26f0f66ef3cdb}
+      \strng{authorfullhash}{d23b61271cfbe8ca3fd26f0f66ef3cdb}
+      \strng{editorbibnamehash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \strng{editornamehash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \strng{editorfullhash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Stanford Encyclopedia of Philosophy}
+      \field{edition}{Fall 2018}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/fall2018/entries/incompatibilism-arguments/}}
+      \field{title}{Arguments for Incompatibilism}
+      \field{year}{2018}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
